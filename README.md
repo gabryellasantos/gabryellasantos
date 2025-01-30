@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Gabryella Santos👋
-Sou estudante de Análise e Desenvolvimento de Sistemas com experiência em Desenvolvimento Front-End e interesse na área de Análise de Dados. <br> Estou constantemente estudando e me desafiando em novos projetos para criar e desenvolver novas habilidades.
+Sou estudante de Análise e Desenvolvimento de Sistemas com experiência em Desenvolvimento Front-End e interesse na área de Análise de Dados. Estou constantemente estudando e me desafiando em novos projetos para criar e desenvolver novas habilidades.
 
 ![Gabryella's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabryellasantos&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabryellasantos&layout=compact&theme=tokyonight)
