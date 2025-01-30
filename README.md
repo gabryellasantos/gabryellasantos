@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Gabryella Santos👋
 👩‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas. <br>
-📌 Experiência em Desenvolvimento Front-End e interesse na área de Análise de Dados. <br>
+📌 Experiência em Desenvolvimento Front-End, UX/UI Design e interesse na área de Análise de Dados. <br>
 📚 Atualmente estudando as linguagens: Java e JavaScript. <br>
 ✨ Constantemente me desafiando em novos projetos para criar e desenvolver novas habilidades. <br>
 
