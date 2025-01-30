@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá! Eu sou a Gabryella Santos👋
+Sou estudante de Análise e Desenvolvimento de Sistemas com experiência em Desenvolvimento Front-End e interesse na área de Análise de Dados. <br> Estou constantemente estudando e me desafiando em novos projetos para criar e desenvolver novas habilidades.
 
-<!--
-**gabryellasantos/gabryellasantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Gabryella's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabryellasantos&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabryellasantos&layout=compact&theme=tokyonight)
 
-Here are some ideas to get you started:
+## Tecnologias que estou utilizando no momento
+<div style="display: inline-block"><br>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Outras redes sociais
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabryella-santos-8b9a66335)
+
