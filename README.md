@@ -20,6 +20,5 @@
 
 ## Redes sociais e contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabryella-santos-8b9a66335)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabryellasantospo@gmail,com)
 
 
