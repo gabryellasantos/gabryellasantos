@@ -1,23 +1,22 @@
-## Olá! Eu sou a Gabryella Santos👋
-👩‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas. <br>
-📌 Focada na área de dados e com experiência em Desenvolvimento Front-End e UX/UI Design. <br>
-✨ Constantemente me desafiando em novos projetos para criar e desenvolver novas habilidades. <br>
+![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=A78BFA&center=false&vCenter=false&width=600&lines=Olá%2C+eu+sou+a+Gabryella+Santos!+👋;Bem-vindo(a)+ao+meu+perfil+🌺)
 
+🟣 Estudante de Análise e Desenvolvimento de Sistemas. <br>
+⚪ Experiência em Desenvolvimento Front-End, UX/UI Design e Análise de Dados. <br>
+🟣 Constantemente me desafiando em novos projetos para criar e desenvolver novas habilidades. <br>
 
-
-## Tecnologias que estou utilizando no momento
-<div style="display: inline-block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
-
-<br>
+## Linguagens e Ferramentas
+![JS](https://img.shields.io/badge/JavaScript-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-A855F7?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-EC4899?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-A855F7?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-EC4899?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Redes sociais e contato
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabryella-santos-8b9a66335/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabryellasantospo@gmail.com)
-
-
+<a href="mailto:gabryellasantospo@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EC4899?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/gabryella-santos-8b9a66335" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
